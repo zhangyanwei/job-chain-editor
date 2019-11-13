@@ -10,10 +10,10 @@ It simply includes the two parts (created two folders of them). it means, we hav
 
 #### Start service
 
-It written base on the Flask framework, so start the service first.
+It is written based on the Flask framework, so start the service first.
 
 #### Start client
 
-Navigate to the client directory, and configre the dev-server proxy for remote the calls.
+Navigate to the client directory, and configure the dev-server proxy for remote the calls.
 
 ### TODO
