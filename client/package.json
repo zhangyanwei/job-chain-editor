@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "js-yaml": "^3.13.1",
     "sortablejs": "^1.8.4",
     "vue": "^2.6.6",
